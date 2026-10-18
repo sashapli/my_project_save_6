@@ -1,0 +1,17 @@
+{
+    "idSave": 363,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "money": 1,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        true,
+        false
+    ],
+    "Car": 3,
+    "coins": 8193,
+    "ISjeep": true,
+    "ISsprortCar": true
+}
